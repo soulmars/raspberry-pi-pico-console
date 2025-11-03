@@ -11,7 +11,9 @@
 I made a simple circuit where I connected a 128x64 lcd to the raspberry pi pico also adding a few buttons for the controls. I used a ssh106 driver for the oled display and micropython on the microcontroller.![PXL_20251103_233227063](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODE4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--e2d0e9a0a33e34009ccf763eadf28275518f1028/PXL_20251103_233227063.jpg)
 
 I also made an implementation of breakout and snake.
-![PXL_20251103_233227063](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODE4MywicHVyIjoiYmxvYl9pZCJ9fQ==--38305ea4550caf8da9595e920e5ccbedeeeaa55b/PXL_20251103_233227063.jpg)![PXL_20251103_233703255](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODE4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--7eeb2ee26678dc87a85ea04ed65871a29114fce8/PXL_20251103_233703255.jpg)
+![1000051819](https://github.com/user-attachments/assets/fa473e79-e971-4a12-a1cf-f951c8d9d656)
+
+![PXL_20251103_233703255](https://github.com/user-attachments/assets/2f6561a7-6e1d-4efe-aec9-c9cb7b4a9252)
 
   
 
